@@ -1,0 +1,13 @@
+
+public class addthreenumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a,b,c;
+		int x=a+b+c;
+		System.out.println(x);
+
+	}
+
+}
