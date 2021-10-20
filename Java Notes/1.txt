@@ -130,9 +130,47 @@ System.in ---> Want to read from Keyword
 
 
 
+OOPs Concept
+------------------
+Noun-->class (Employee)
+Adjective--->Attributes(name,age,salary)
+Verb------>Methods(getsalary(),increment())
+
+
+OOPs:
+
+
+Abstraction  (aam khao guthli mat gino)
+Hiding Internal Details
+
+Encapsulation
+(like a capsule)
+all vitamins in this capsule
+
+Car(Music system,chair,Speaker)
+
+Polymorphism 
+One Entity many forms
+
+Smart phone(call,calculator,photo,camera)
+
+
+Inheritance
+Rickshaw--->Erickshaw
+Phone-------->Smart Phone 
 
 
 
+Access Modifiers
+default
+private
+public
+protected
+
+
+Constructor in Java
+
+A memeber function used to initialize an object while creating it.
 
 
 

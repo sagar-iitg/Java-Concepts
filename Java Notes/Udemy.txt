@@ -1,0 +1,94 @@
+Jshell
+
+From java 9
+Java is equally easy to learn -Jshell
+Java REPL (Read Eval Print Loop)
+
+Exit from jshell
+/exit
+
+
+Parameter
+
+
+Escape Charactrer
+
+"\
+\n
+\t
+
+
+format specifier
+%d
+%s
+
+
+Declaration
+Assignment
+
+Java is Strongly typed language
+
+
+
+Pascal Case
+Camelcase
+camelCase
+PascalCase
+
+
+
+(
+	int i=1;
+	for(;i<=10;i++);
+Empty Statement in for loop
+)
+
+literal is numeric value
+integer literal
+decimal literal
+
+
+jshell
+/methods
+/backup.txt
+/exit
+/edit method
+/list method()
+
+
+
+
+
+compiling and execution
+java code--->compiled---->bytecode--->run---->bytecode--->windowsjvm-->windows instruction
+
+
+class file contains bytecode
+
+class is like template.
+multiple instances of class.
+
+class name should match the filename
+
+JVM---> convert bytes code into windows/mac Instructions(Machine Instructions)
+JVM runs Java Bytecode
+JRE=JVM+Libraries+OtherComponenets(Libraries related to java)
+java classes is part of JRE
+
+JDK=JRE+Compilers+Debuggers
+all the compilers
+develop java program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
