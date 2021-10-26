@@ -82,6 +82,135 @@ develop java program
 
 
 
+Object Oriented Programming
+
+
+
+Data/State/fields
+actions/behaviour/methods/function
+
+
+
+
+Wrapper Class
+
+floating number in java is accurate
+
+character 
+Unicode
+Unicode character is supported by java
+2Byte
+Internally character is Number
+
+
+in calculation don't use float and double data types
+Use BigDecimal
+---------------
+Reference Types in java
+
+
+
+Each method has a seprate stack
+stack and heap memory
+
+Heap(Global Shared)
+
+Generally primitive data is stored in stack
+
+
+String is immutable.
+concatentation executes from left to right
+1+2+"3"===> "33"
+"1"+2+3====>"123"
+
+creating object is very very costly
+
+Synchronised Class
+
+StringBuffer (thread safe)
+StringBuilder (if u not care about of multithreading)
+
+
+
+
+Wrapper Classes
+A wrapper class wraps(encloses) around a data type and gives it an object apperance.
+wrapper classes are final and immutable
+
+primitive:boolean,byte,char,double,float,int,long,short
+Wrapper:Boolean,Byte,Character,Double,Float,Integer,Long,Short
+
+
+
+why wrapper classes?
+
+Auto boxing
+
+
+JODA Time Framework
+
+
+
+LocalDate,LocalDateTime,LocalTime
+
+
+Show default imports
+
+/imports
+
+
+
+Arrays.sort(arr) //InPosition Sorting
+
+
+
+--------
+variable arguments should be the last arguments
+Array List is Part of collections
+
+
+
+we can't have two public class in one .java file
+
+Java rule: One Public class in one file
+
+Multiple inheritance is not supported by java.
+but it is supported by cpp
+
+Abstract class
+
+Syntatically Abstract and interface both are same.
+
+instead of class keyword we are using interface keyword
+
+Interface
+Communication between Two Projects
+Interface is Contract
+In interface everything is public
+
+
+
+Abstarct method can have private
+
+
+Polymorphism
+
+Samecode different behaviour
+
+
+
+Normal array is immutable
+Low Level DataStructure
+Business Logic
+
+
+
+List,Set,Map,Queue
+
+List can have duplicates
+
+
+
 
 
 
