@@ -211,6 +211,61 @@ List can have duplicates
 
 
 
+Exception handling
+
+Good and Bad Programmers cause exception handling
+
+
+Friendly message to the end user.
+
+Enough information to debug the problem.
+
+Exception is class
+
+
+Primarily three types of error
+Syntax Error
+Logical Error
+Runtime Error
+
+Runtime Errors is also known as exceptions
+
+
+checked exception(Handled through compiler)
+unchecked exception(runtime exception)
+
+Commonly Occuring Exceptions
+
+1.Null Pointer Exceptions
+2.Arithmetic Exceptions
+3.ArrayIndexOutOfBoundException
+4.IiilegalArugument Exception
+5.NumberformatException.
+
+
+
+
+Concurrency
+i++ is not atomic operation  
+
+
+Spring framework
+
+Tight Coupling
+losse Coupling
+
+How many changes we need to make
+
+    
+
+
+
+
+
+@componenet Class managed by spring framework
+ 
+
+
 
 
 

@@ -174,11 +174,27 @@ A memeber function used to initialize an object while creating it.
 
 
 
+Exception Handling
 
 
+finally  blocks makes sure -Some piece of code will surely execute
+catch --Handle exceptions
 
 
+Checked Exception
+Unchecked Exception
 
+Exception Hierarchy
+
+// Pre-defined java classes
+
+class Error extends Throwable{}
+class Exception extends Throwable{}
+class InterruptedException extends Exception{}
+class RunTimeException extends Exception{}
+
+class NullPointerExceptions extends RunTimeException{}
+ 
 
 
 
