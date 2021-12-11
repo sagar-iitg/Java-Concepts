@@ -53,8 +53,10 @@ parameters when defining classes, interface and methods
 
 we can reuse the same code with differeny inputs
 
+It is not a good programming practise to do type castings - we
+should use generics instead
 
-
+Generics has ,many befenfits over non-generic code
 
 
 
