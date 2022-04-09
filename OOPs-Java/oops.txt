@@ -1,7 +1,18 @@
 Why main  is declared as a static method?
+
 What is static?
+
 We can use main function without creating an object
  of that class (main class).
+ 
+main is very first thing actually which runs whenever we run java programs
+ 
+if main is not there you will not able to run it
+
+main is the first thing we have to run then if yoy do not put it as a static 
+
+
+ 
  
 
 
