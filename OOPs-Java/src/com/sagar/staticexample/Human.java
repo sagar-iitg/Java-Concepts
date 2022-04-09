@@ -11,6 +11,13 @@ public class Human {
 	// this represents objects;
 	// public Constructor
 
+	static void message() {
+
+		System.out.println("hello World");
+
+		// System.out.println(this.age);
+	}
+
 	public Human(int age, String name, int salary, boolean married) {
 		super();
 		this.age = age;

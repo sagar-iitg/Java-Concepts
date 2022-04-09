@@ -11,7 +11,16 @@ if main is not there you will not able to run it
 
 main is the first thing we have to run then if yoy do not put it as a static 
 
+//outside classes cannot be static why?
 
+
+//inner classes can be static
+ 
+ static methods are resolved during compile times.
+ class level methods---> statics methods
+ 
+ 
+ 
  
  
 
