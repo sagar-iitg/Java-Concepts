@@ -1,0 +1,7 @@
+Why main  is declared as a static method?
+What is static?
+We can use main function without creating an object
+ of that class (main class).
+ 
+
+
