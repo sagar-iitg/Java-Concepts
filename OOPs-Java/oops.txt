@@ -20,6 +20,18 @@ main is the first thing we have to run then if yoy do not put it as a static
  class level methods---> statics methods
  
  
+ Encapsulation
+ 
+ Wrapping up the implementaion of the data members and methods in class
+ 
+ 
+ 
+ 
+ Abstraction
+ 
+ 
+ Hiding unnecesary details and sharing valuable information to the user
+ 
  
  
  
