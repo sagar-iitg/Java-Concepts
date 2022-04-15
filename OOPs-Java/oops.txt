@@ -30,7 +30,7 @@ main is the first thing we have to run then if yoy do not put it as a static
  Abstraction
  
  
- Hiding unnecesary details and sharing valuable information to the user
+ Hiding unnecessary details and sharing valuable information to the user
  
  
  
