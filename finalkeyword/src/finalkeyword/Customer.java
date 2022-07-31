@@ -14,7 +14,7 @@ public class Customer {
 
 	public Customer() {
 		// TODO Auto-generated constructor stub
-		this.name = "sk";
+		//this.name = "sk";
 	}
 
 	public Customer(String name) {

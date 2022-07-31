@@ -5,9 +5,8 @@ public class MyThread extends Thread {
 	@Override
 	public void run() {
 
-		for (int i = 1; i <= 10; i++) {
-			System.out.println(i);
-		}
+		int c = 0;
+		c = 10 / 0;
 	}
 
 }
